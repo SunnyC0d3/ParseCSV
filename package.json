@@ -1,0 +1,18 @@
+{
+  "name": "parse-csv",
+  "version": "1.0.0",
+  "description": "//Write Docs explaining how you setup your environment, what the code is //Consider security //Write code using creational design pattern //Build your own CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.43",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.49.8",
+    "sass-loader": "^12.6.0"
+  }
+}

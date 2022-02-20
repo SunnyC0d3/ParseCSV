@@ -1,0 +1,6 @@
+{
+    "autoload": {
+        "psr-4": {"ParseCSV\\": ""},
+        "files": ["Functions/functions.php"]
+    }
+}
